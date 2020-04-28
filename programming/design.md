@@ -1,5 +1,5 @@
-# Optimisation
-Links & Stuff relating to optimising code and writing efficient code
+# Design
+Links & Stuff relating to good code design
 
 * [Chandler Carruth "Efficiency with Algorithms, Performance with Data Structures"](https://youtu.be/fHNmRkzxHWs)
 * [Mike Acton "Data-Oriented Design and C++"](https://youtu.be/rX0ItVEVjHc)
