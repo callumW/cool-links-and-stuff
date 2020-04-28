@@ -13,5 +13,5 @@
 * (Book) [Nystrom, Robert - "Game Programming Patterns"](http://gameprogrammingpatterns.com/)
 * (Book) [Ericson, Christer - "Real-Time Collision Detection"](http://realtimecollisiondetection.net/books/rtcd/)
 * (Video) [Jonathan Blow "Rant: Entity systems and the Rust borrow checker ... or something."](https://www.youtube.com/watch?v=4t1K66dMhWk)
-* (Video) [Catherine West "Using Rust For Game Development"](https://www.youtube.com/watch?v=aKLntZcp27M)\
+* (Video) [Catherine West "Using Rust For Game Development"](https://www.youtube.com/watch?v=aKLntZcp27M)
 * (Blog) [Bitsquid "Building a Data-Oriented Entity System (part 1)"](http://bitsquid.blogspot.com/2014/08/building-data-oriented-entity-system.html)
