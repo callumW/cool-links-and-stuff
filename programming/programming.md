@@ -12,6 +12,7 @@
 * (Video) [Mike Acton "How to Write Code the Compiler Can Actually Optimize"](https://youtu.be/x61H6qEtK08)
 * (Blog) [Noel Llopis "Data Oriented Design"](http://gamesfromwithin.com/data-oriented-design)
 * (Video) [Chandler Carruth "High Performance Code 201: Hybrid Data Structures"](https://www.youtube.com/watch?v=vElZc6zSIXM)
+* (Repo) [data-oriented-design link repo](https://github.com/dbartolini/data-oriented-design)
 
 ## Games
 * (Book) [Nystrom, Robert - "Game Programming Patterns"](http://gameprogrammingpatterns.com/)
