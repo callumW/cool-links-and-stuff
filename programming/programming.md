@@ -21,4 +21,5 @@
 * (Video) [Catherine West "Using Rust For Game Development"](https://www.youtube.com/watch?v=aKLntZcp27M)
 * (Blog) [Bitsquid "Building a Data-Oriented Entity System (part 1)"](http://bitsquid.blogspot.com/2014/08/building-data-oriented-entity-system.html)
 * (Video) [Nicolas Fleury "C++ in Huge AAA Games"](https://www.youtube.com/watch?v=qYN6eduU06s)
+* (Blog/Article) [Amit's A* Pages](http://theory.stanford.edu/~amitp/GameProgramming/) - Loads of cool Game Programming topics
 
